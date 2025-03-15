@@ -17,3 +17,4 @@ The CNN comprises a convolutional layer (`Conv2D`) for feature extraction, follo
 
 The model is compiled with the Adam optimizer, sparse categorical crossentropy as the loss function, and accuracy as a metric. It's trained for 5 epochs on a batch size of 64, with the test data used for validation. Post-training, the model's accuracy on the test set is evaluated, and predictions on the first 5 test images are visualized alongside their predicted labels. This end-to-end pipeline demonstrates a basic CNN workflow for image classification.
 
+*output*:https://github.com/Hrushi2005/DEEP-LEARNING-PROJECT/issues/1#issue-2922399804
